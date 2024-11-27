@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.example
+
+# WhatsApp session
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db 
